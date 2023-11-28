@@ -33,7 +33,7 @@ var games = [
     
     {
         "id": "bloonstd2",
-        "title": "bloonstd2",
+        "title": "Bloons Tower Defense 2",
         "image": "https://mathlover1.github.io/msgweb-assets/bloonstd2/bloonstd2.png",
         "description": "Defend yourself from the balloons by popping them and buying upgrades. This is the sequel to Bloons td.",
         "file": "https://mathlover1.github.io/msgweb-assets/bloonstd2/index.html"
