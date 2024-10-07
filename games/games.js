@@ -128,14 +128,6 @@ var games = [
     },
     
     {
-        "id": "learntofly2",
-        "title": "DO NOT ENTER! DOESN'T WORK!",
-        "image": "https://detectamet.com/media/catalog/product/cache/5a957c4913525ca343b04a143a047309/s/i/sign-t0085-s05_do_not_enter_a5_v2.jpg",
-        "description": "Learn to Fly 2, learn to fly as a penguin. This time, you can fly better.",
-        "file": "https://mathlover1.github.io/msgweb-assets/leartofly2/index.html"
-    },
-    
-    {
         "id": "slope",
         "title": "Slope",
         "image": "https://mathlover1.github.io/msgweb-assets/slope/slope4.jpeg",
