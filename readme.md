@@ -1,5 +1,7 @@
 # MSGweb
 A stunning, innovative, and brand new game site made with all your basic wants + needs in mind.
+# WARNING
+Some parts are currently broken. We are aware of these issues and are working to fix them.
 
 ## Features:
 ### ⭐ STAR ⭐ This repo to show support!
