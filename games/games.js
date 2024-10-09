@@ -8,6 +8,14 @@ var games = [
     },
     
     {
+        "id": "1v1lol",
+        "title": "1v1.lol",
+        "image": "https://astroid5710.github.io/msgweb_assets/html5/1v1lol/1v1lol.jpeg",
+        "description": "1v1.lol is a competitive third-person shooter where you build your way around the map tactically. You can build platforms, ramps, and walls to aid your defenses and gain an advantage.",
+        "file": "https://astroid5710.github.io/msgweb-assets/1v1lol/index.html"
+    },
+    
+    {
         "id": "2048",
         "title": "2048",
         "image": "https://mathlover1.github.io/msgweb-assets/2048/2048.png",
