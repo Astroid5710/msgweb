@@ -103,7 +103,7 @@ function gptChange() {
     if (port != "") {
       host = host + ":" + port;
     }
-    window.location.href = "https://" + host + "/msgweb/gpt/";
+    window.location.href = "https://" + host + "/msgweb/credits/";
 }
 
 
